@@ -1,9 +1,8 @@
 html, body {
   margin: 0;
   border: 0;
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Lucida Console", "Courier New", monospace;
   font-size: 300%;
   background-color: pink;
   color: lime;
 }
-a:link    { color : pink ; }
