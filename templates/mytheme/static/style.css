@@ -1,7 +1,9 @@
 html, body {
   margin: 0;
   border: 0;
-  font-size: 100%;
-  background-color: #000000;
-  color: #ffffff;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 300%;
+  background-color: pink;
+  color: lime;
 }
+a:link    { color : pink ; }
