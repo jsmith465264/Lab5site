@@ -2,7 +2,7 @@ html, body {
   margin: 0;
   border: 0;
   font-family: "Lucida Console", "Courier New", monospace;
-  font-size: 300%;
-  background-color: pink;
-  color: lime;
+  font-size: 200%;
+  background-color: #e834eb;
+  color: #04ff00;
 }
